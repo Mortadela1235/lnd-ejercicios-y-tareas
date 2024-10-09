@@ -1,0 +1,3 @@
+# Investiga cómo el W3C desarrolla y publica nuevos estándares web.
+
+El W3C desarrolla nuevos estándares web mediante un proceso colaborativo que comienza con la identificación de una necesidad técnica. Se forma un grupo de trabajo especializado que crea borradores iniciales del estándar, los cuales se publican para que la comunidad los revise y comente. A través de múltiples iteraciones y pruebas en implementaciones reales, el estándar se ajusta hasta que alcanza un estado maduro. Luego, se somete a una revisión final por el Comité Consultivo del W3C, y si es aprobado, se publica como una Recomendación oficial. Este proceso asegura la interoperabilidad y accesibilidad en la web.
